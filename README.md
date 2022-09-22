@@ -1,5 +1,4 @@
 ## Computer Othello
 
-ToDo
-
+To-do
 Update README
