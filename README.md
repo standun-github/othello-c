@@ -1,4 +1,5 @@
 ## Computer Othello
 
 To-do
-Update README
+Update README,
+Clean code
